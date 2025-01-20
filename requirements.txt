@@ -1,0 +1,36 @@
+absl-py @ file:///C:/b/abs_5babsu7y5x/croot/absl-py_1666362945682/work
+astor==0.8.1
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+cycler==0.11.0
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+fonttools==4.38.0
+gast @ file:///tmp/build/80754af9/gast_1637837472536/work
+grpcio @ file:///C:/ci/grpcio_1637590993074/work
+h5py @ file:///C:/ci/h5py_1659089886851/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1648562631189/work
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver==1.4.5
+Markdown @ file:///C:/b/abs_98lv_ucina/croot/markdown_1671541919225/work
+MarkupSafe @ file:///C:/ci/markupsafe_1654508076077/work
+matplotlib==3.5.3
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
+mkl-service==2.4.0
+mock @ file:///tmp/build/80754af9/mock_1607622725907/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1653574840943/work
+packaging==24.0
+Pillow==9.5.0
+protobuf==3.20.3
+pyparsing==3.1.4
+python-dateutil==2.9.0.post0
+scipy @ file:///C:/ci/scipy_1661333074914/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tensorboard==1.13.1
+tensorflow==1.13.1
+tensorflow-estimator==1.13.0
+termcolor @ file:///C:/b/abs_16qe7jhw7n/croot/termcolor_1668084642458/work
+typing_extensions @ file:///C:/b/abs_89eui86zuq/croot/typing_extensions_1669923792806/work
+Werkzeug @ file:///C:/b/abs_17q5kgb8bo/croot/werkzeug_1671216014857/work
+wincertstore==0.2
+zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
