@@ -15,7 +15,7 @@ model = AutoModelForCausalLM.from_pretrained(
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 messages = [
-    {"role": "user", "content": "역사상 가장 재미있던 영화 후보 5개를 추천해줘. 한국어로 대답해줘."}
+    {"role": "user", "content": "허깅페이스를 사용해서 작은 LLM을 훈련하는 코드를 작성해줘."}
 ]
 input_ids = tokenizer.apply_chat_template(
     messages,
